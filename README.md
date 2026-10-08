@@ -1,4 +1,4 @@
-# currency_converter_app
+# currency-coverter
 
 A new Flutter project.
 
